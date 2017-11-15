@@ -1,10 +1,7 @@
 package com.es.youtubeapi_test;
 
-import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
-import android.content.res.Resources;
-import android.support.v4.app.FragmentManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
